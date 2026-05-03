@@ -1,3 +1,14 @@
-test pour voir si la commande marche
+Commande linux apprises 
 
-
+ls 
+mv
+cp
+cd
+mkdir
+touch
+find
+less 
+more
+pwd
+rm
+nano 
