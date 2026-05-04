@@ -1,14 +1,3 @@
-Commande linux apprises 
-
-ls 
-mv
-cp
-cd
-mkdir
-touch
-find
-less 
-more
-pwd
-rm
-nano 
+cc test
+cc ok
+commencer aws
