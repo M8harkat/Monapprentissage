@@ -1,6 +1,8 @@
-cc test
+ddcc test
 cc ok
 commencer aws
 quelques notions de aws alors le service s3 est un service de stockage de données de tous types mêmes des sites internet on stock les données dans des bucket et on gére l'acces a ces données avec des politque de données ou dutilisateur ya plusieurs type de bucket en fonction du besoin et du besoin pour les données souvent consulté on preconise le rapide et les plus lente pour les moins consulté 
 
 ensuite concernant le service ec2 c'est juste des machines virtuel sur amazon tout simplement on ouvre des instances et on configure en fonction du besoin ou peut en ouvrir plusieurs pour different besoins ya ecb aussi qui est le disque dur de ses instances et qui permet de stocker
+
+hébergement du premier site avec s3 de aws https://siteharkat.s3.eu-north-1.amazonaws.com/mon-plan-devops-cloud.html 
